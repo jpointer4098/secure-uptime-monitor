@@ -1,0 +1,18 @@
+# Ignore environment variables
+.env
+.env.*
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore local databases or temp files
+*.db
+*.sqlite3
